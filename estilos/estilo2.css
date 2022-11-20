@@ -1,0 +1,19 @@
+html{
+    font-size: 100%;
+    box-sizing: border-box;
+}
+.encabezado{
+    margin: 0;
+    padding: 5px;
+    background-color: rgba(211, 211, 211, 0.836);
+}
+img.image{
+    height: 100px;   
+    margin: 0;
+    padding: 5px;
+}
+header{
+    margin: 0;
+    padding: 5px;
+    background-color: rgb(85, 94, 177); 
+  }
